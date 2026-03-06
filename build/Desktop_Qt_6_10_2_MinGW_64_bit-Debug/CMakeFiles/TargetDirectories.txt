@@ -1,0 +1,17 @@
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/engine/CMakeFiles/GalDou_Engine.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/engine/CMakeFiles/edit_cache.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/engine/CMakeFiles/rebuild_cache.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/engine/CMakeFiles/GalDou_Engine_autogen_timestamp_deps.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/engine/CMakeFiles/GalDou_Engine_autogen.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/editor/CMakeFiles/GalDou_Editor.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/editor/CMakeFiles/edit_cache.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/editor/CMakeFiles/rebuild_cache.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/editor/CMakeFiles/GalDou_Editor_autogen_timestamp_deps.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/editor/CMakeFiles/GalDou_Editor_autogen.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/runner/CMakeFiles/GalDou.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/runner/CMakeFiles/edit_cache.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/runner/CMakeFiles/rebuild_cache.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/runner/CMakeFiles/GalDou_autogen_timestamp_deps.dir
+D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/runner/CMakeFiles/GalDou_autogen.dir

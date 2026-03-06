@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"editor/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "GalDou_Engine::@4088515cb4035b412499"
+		}
+	],
+	"id" : "GalDou_Editor_autogen_timestamp_deps::@ed37844f285895dce70e",
+	"isGeneratorProvided" : true,
+	"name" : "GalDou_Editor_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "editor",
+		"source" : "editor"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

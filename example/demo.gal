@@ -1,0 +1,36 @@
+# demo.gal — GalDou 示例脚本
+# 演示所有支持的命令
+
+[scene] start
+[bg] "backgrounds/bg_classroom.png"
+[bgm] "audio/theme.mp3"
+[show] "characters/sakura.png" center
+[say] "樱" "你好！欢迎来到 GalDou 的世界。"
+[say] "樱" "今天我们来看一个简单的选择分支。"
+[choice]
+[option] "一起去图书馆" "goto_library"
+[option] "去操场走走" "goto_field"
+
+# ── 分支 A：图书馆 ──────────────────────────────────────────
+[scene] goto_library
+[set] visited_library 1
+[bg] "backgrounds/bg_library.png"
+[show] "characters/sakura.png" left
+[say] "樱" "图书馆好安静，我最喜欢这里了。"
+[say] "" "（两人在书架间漫步，翻看着各自喜欢的书。）"
+[if] visited_library==1 "library_end" "start"
+
+[scene] library_end
+[say] "樱" "今天真开心，下次还要一起来！"
+[hide] "characters/sakura.png"
+[end]
+
+# ── 分支 B：操场 ────────────────────────────────────────────
+[scene] goto_field
+[bg] "backgrounds/bg_field.png"
+[show] "characters/sakura.png" right
+[say] "樱" "操场上好多人啊！"
+[say] "樱" "要不要一起去踢球？"
+[say] "" "（阳光洒在草地上，这是一个美好的午后。）"
+[hide] "characters/sakura.png"
+[end]

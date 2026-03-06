@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"runner/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "GalDou_Engine::@4088515cb4035b412499"
+		}
+	],
+	"id" : "GalDou_Runner_autogen_timestamp_deps::@056c4f61b0156d1d9b06",
+	"isGeneratorProvided" : true,
+	"name" : "GalDou_Runner_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "runner",
+		"source" : "runner"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

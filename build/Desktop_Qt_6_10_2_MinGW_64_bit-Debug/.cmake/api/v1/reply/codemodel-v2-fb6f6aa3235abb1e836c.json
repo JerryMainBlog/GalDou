@@ -1,0 +1,180 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "engine",
+					"jsonFile" : "directory-engine-Debug-776e2b00c6520ab49d05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "engine",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "editor",
+					"jsonFile" : "directory-editor-Debug-f0e908b7e5506a789932.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "editor",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3
+					]
+				},
+				{
+					"build" : "runner",
+					"jsonFile" : "directory-runner-Debug-86f38b7dcb6f33eb04e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "runner",
+					"targetIndexes" : 
+					[
+						0,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "GalDou",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "GalDou::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-GalDou-Debug-ab25d659d0252e4c8db6.json",
+					"name" : "GalDou",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "GalDou_Editor::@ed37844f285895dce70e",
+					"jsonFile" : "target-GalDou_Editor-Debug-b762166501e3dd58a13b.json",
+					"name" : "GalDou_Editor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "GalDou_Editor_autogen::@ed37844f285895dce70e",
+					"jsonFile" : "target-GalDou_Editor_autogen-Debug-e5efbf2dd2087e835ace.json",
+					"name" : "GalDou_Editor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "GalDou_Editor_autogen_timestamp_deps::@ed37844f285895dce70e",
+					"jsonFile" : "target-GalDou_Editor_autogen_timestamp_deps-Debug-1b73a42e1715f9fadcc9.json",
+					"name" : "GalDou_Editor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GalDou_Engine::@4088515cb4035b412499",
+					"jsonFile" : "target-GalDou_Engine-Debug-ac6e29ad567f6ee607eb.json",
+					"name" : "GalDou_Engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GalDou_Engine_autogen::@4088515cb4035b412499",
+					"jsonFile" : "target-GalDou_Engine_autogen-Debug-8214127ff0714cac2fff.json",
+					"name" : "GalDou_Engine_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GalDou_Engine_autogen_timestamp_deps::@4088515cb4035b412499",
+					"jsonFile" : "target-GalDou_Engine_autogen_timestamp_deps-Debug-8d41eae921b9bdef5486.json",
+					"name" : "GalDou_Engine_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "GalDou_autogen::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-GalDou_autogen-Debug-0503752e99cd78eb9262.json",
+					"name" : "GalDou_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "GalDou_autogen_timestamp_deps::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-GalDou_autogen_timestamp_deps-Debug-17b820b16a79fe6f5272.json",
+					"name" : "GalDou_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Material/2026/2026Qt/GalDou/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "D:/Material/2026/2026Qt/GalDou"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
